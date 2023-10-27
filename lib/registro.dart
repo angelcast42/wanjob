@@ -160,23 +160,7 @@ class _registroState extends State<registro> {
       try {
         EasyLoading.show(status: 'cargando...');
         if (tipocliente == 'trabajador') {
-          this.getDataRenap(numerodpi).then((result) {
-            var datarenap = result["Respuesta"]["ROW"];
-            if (datarenap["PRIMER_NOMBRE"].toUpperCase() ==
-                    primerNombre.toUpperCase() &&
-                datarenap["PRIMER_APELLIDO"].toUpperCase() ==
-                    primerApellido.toUpperCase() &&
-                datarenap["SEGUNDO_APELLIDO"].toUpperCase() ==
-                    segundoApellido.toUpperCase()) {
-              if (segundoNombre != '' &&
-                  datarenap["SEGUNDO_NOMBRE"].toUpperCase() !=
-                      segundoNombre.toUpperCase()) {
-                EasyLoading.dismiss();
-                EasyLoading.showError('La validación de identediad fallo, debe validar que la información ingresada este tal como aparece en su DPI.');
-              } else {
-                EasyLoading.dismiss();
-                EasyLoading.showSuccess('Identidad validada con exito');
-                Firestore.instance
+            Firestore.instance
                     .collection('users')
                     .document(uid)
                     .updateData({
@@ -196,37 +180,12 @@ class _registroState extends State<registro> {
                   'registroterminado': true,
                   'image': imageSelect
                 });
-                this.startUpload(datarenap["FOTO"]);
+                EasyLoading.dismiss();
                 Navigator.of(context).pushAndRemoveUntil(
                     MaterialPageRoute(builder: (_) => perfilTrabajador()),
                     (route) => false);
-              }
-            } else {
-              EasyLoading.dismiss();
-              EasyLoading.showError('La validación de identediad fallo, debe validar que la información ingresada este tal como aparece en su DPI.');
-            }
-            print(result);
-          }).catchError((error) {
-            print("error" + error);
-          });
         } else {
-          this.getDataRenap(numerodpi).then((result) {
-            var datarenap = result["Respuesta"]["ROW"];
-            if (datarenap["PRIMER_NOMBRE"].toUpperCase() ==
-                    primerNombre.toUpperCase() &&
-                datarenap["PRIMER_APELLIDO"].toUpperCase() ==
-                    primerApellido.toUpperCase() &&
-                datarenap["SEGUNDO_APELLIDO"].toUpperCase() ==
-                    segundoApellido.toUpperCase()) {
-              if (segundoNombre != '' &&
-                  datarenap["SEGUNDO_NOMBRE"].toUpperCase() !=
-                      segundoNombre.toUpperCase()) {
-                EasyLoading.dismiss();
-                EasyLoading.showError('La validación de identediad fallo, debe validar que la información ingresada este tal como aparece en su DPI.');
-              } else {
-                EasyLoading.dismiss();
-                EasyLoading.showSuccess('Identidad validada con exito');
-                Firestore.instance
+          Firestore.instance
                     .collection('users')
                     .document(uid)
                     .updateData({
@@ -244,19 +203,10 @@ class _registroState extends State<registro> {
                   'registroterminado': true,
                   'image': imageSelect
                 });
-                this.startUpload(datarenap["FOTO"]);
+                EasyLoading.dismiss();
                 Navigator.of(context).pushAndRemoveUntil(
                     MaterialPageRoute(builder: (_) => dashboard()),
                     (route) => false);
-              }
-            } else {
-              EasyLoading.dismiss();
-              EasyLoading.showError('La validación de identediad fallo, debe validar que la información ingresada este tal como aparece en su DPI.');
-            }
-            print(result);
-          }).catchError((error) {
-            print("error" + error);
-          });
         }
       } catch (e) {
         EasyLoading.dismiss();
@@ -360,7 +310,7 @@ class _registroState extends State<registro> {
     return Scaffold(
       appBar: AppBar(
         title: const Text('Registro'),
-        backgroundColor: Color(0xff8877ff),
+        backgroundColor: Color(0xff8306CF),
       ),
       body: Form(
         key: _formKey,
@@ -378,7 +328,7 @@ class _registroState extends State<registro> {
                     width: 200,
                     child: RaisedButton(
                       textColor: Colors.white,
-                      color: Color(0xff8877ff),
+                      color: Color(0xff8306CF),
                       child: Row(
                         mainAxisAlignment: MainAxisAlignment.center,
                         children: <Widget>[
@@ -578,7 +528,7 @@ class _registroState extends State<registro> {
                       )),
                       IconButton(
                         icon: Icon(Icons.calendar_today),
-                        color: Color(0xff8877ff),
+                        color: Color(0xff8306CF),
                         onPressed: () {
                           selectStartDate(context);
                         },
@@ -605,7 +555,7 @@ class _registroState extends State<registro> {
                       margin: const EdgeInsets.only(top: 10),
                       width: double.infinity,
                       child: new RaisedButton(
-                          color: Color(0xff8877ff),
+                          color: Color(0xff8306CF),
                           child: new Text('Registrarme',
                               style: new TextStyle(
                                   fontSize: 20.0, color: Colors.white)),

@@ -134,7 +134,7 @@ class _chatState extends State<chat> {
     return Scaffold(
       appBar: new AppBar(
         title: new Text(this.dataReceiver['nombre']),
-        backgroundColor: Color(0xff8877ff),
+        backgroundColor: Color(0xff8306CF),
       ),
       body: Column(
         children: [
@@ -194,7 +194,7 @@ class _chatState extends State<chat> {
                     )),
                     IconButton(
                       icon: Icon(Icons.send),
-                      color: Color(0xff8877ff),
+                      color: Color(0xff8306CF),
                       onPressed: () {
                         this.addMessage();
                       },

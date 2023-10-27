@@ -150,7 +150,7 @@ class _perfilDetailState extends State<perfilDetail> {
     return Scaffold(
       appBar: new AppBar(
         title: new Text('Detalle'),
-        backgroundColor: Color(0xff8877ff),
+        backgroundColor: Color(0xff8306CF),
         actions: <Widget>[
           GestureDetector(
               //onTap: _launchCaller,
@@ -207,27 +207,7 @@ class _perfilDetailState extends State<perfilDetail> {
                   widget.trabajadordata.data['municipio'],
               textAlign: TextAlign.center,
               style: new TextStyle(
-                  fontSize: 15.0, color: Colors.black.withOpacity(0.5))),
-          RatingBar.builder(
-            initialRating: 4,
-            minRating: 1,
-            direction: Axis.horizontal,
-            allowHalfRating: true,
-            itemCount: 5,
-            itemSize: 30,
-            itemPadding: EdgeInsets.symmetric(horizontal: 4.0),
-            itemBuilder: (context, _) => Icon(
-              Icons.star,
-              color: Colors.amber,
-            ),
-            onRatingUpdate: (rating) {
-              print(rating);
-            },
-          ),
-          Text('Calificaciones (5)',
-              textAlign: TextAlign.center,
-              style: new TextStyle(
-                  fontSize: 15.0, color: Colors.black.withOpacity(0.5))),
+                  fontSize: 20.0, color: Colors.black.withOpacity(0.5))),
           Card(
               margin: EdgeInsets.only(top: 10),
               child: Column(
@@ -280,7 +260,7 @@ class _perfilDetailState extends State<perfilDetail> {
       floatingActionButton: FloatingActionButton(
         onPressed: _showAddReferenciaDialog,
         child: const Icon(Icons.add),
-        backgroundColor: Color(0xff8877ff),
+        backgroundColor: Color(0xff8306CF),
       ),
     );
   }

@@ -31,7 +31,7 @@ class _listTrabajadoresState extends State<listTrabajadores> {
     return Scaffold(
       appBar: new AppBar(
         title: new Text(widget.nombreCategoria),
-        backgroundColor: Color(0xff8877ff),
+        backgroundColor: Color(0xff8306CF),
       ),
       body: widget.nombreCategoria != 'inbox'
           ? StreamBuilder(

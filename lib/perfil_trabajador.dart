@@ -134,8 +134,8 @@ class _perfilTrabajadorState extends State<perfilTrabajador> {
           onSignedOut: logOut,
         ),
         appBar: new AppBar(
-          title: new Text('Wanyob'),
-          backgroundColor: Color(0xff8877ff),
+          title: new Text('Rita'),
+          backgroundColor: Color(0xff8306CF),
           leading: Builder(
             builder: (BuildContext context) {
               return IconButton(
@@ -166,7 +166,7 @@ class _perfilTrabajadorState extends State<perfilTrabajador> {
                       width: 200,
                       child: RaisedButton(
                         textColor: Colors.white,
-                        color: Color(0xff8877ff),
+                        color: Color(0xff8306CF),
                         child: Row(
                           mainAxisAlignment: MainAxisAlignment.center,
                           children: <Widget>[
@@ -188,27 +188,6 @@ class _perfilTrabajadorState extends State<perfilTrabajador> {
                         ),
                       ),
                     ),
-                    RatingBar.builder(
-                      initialRating: 4,
-                      minRating: 1,
-                      direction: Axis.horizontal,
-                      allowHalfRating: true,
-                      itemCount: 5,
-                      itemSize: 30,
-                      itemPadding: EdgeInsets.symmetric(horizontal: 4.0),
-                      itemBuilder: (context, _) => Icon(
-                        Icons.star,
-                        color: Colors.amber,
-                      ),
-                      onRatingUpdate: (rating) {
-                        print(rating);
-                      },
-                    ),
-                    Text('Calificaciones (5)',
-                        textAlign: TextAlign.center,
-                        style: new TextStyle(
-                            fontSize: 15.0,
-                            color: Colors.black.withOpacity(0.5))),
                     Container(
                       margin: EdgeInsets.only(top: 20),
                       width: double.infinity,

@@ -26,7 +26,7 @@ class NavDrawer extends StatelessWidget {
         children: <Widget>[
           DrawerHeader(
             child: Text(
-              'WANYOB',
+              'Rita',
               style: TextStyle(color: Colors.white, fontSize: 25),
             ),
           ),

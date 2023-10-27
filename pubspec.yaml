@@ -47,7 +47,7 @@ dev_dependencies:
 # The following section is specific to Flutter.
 flutter:
   assets:
-    - assets/img/wanyob.png
+    - assets/img/rita.png
     - assets/img/avatarimage.png
     - assets/img/limpieza.jpg
     - assets/img/mecanico.jpg

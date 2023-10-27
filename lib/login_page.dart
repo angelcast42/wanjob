@@ -120,7 +120,7 @@ class _LoginPageState extends State<LoginPage> {
                           constraints: BoxConstraints(maxHeight: 300),
                           child: Container(
                             child: Image.asset(
-                              'assets/img/wanyob.png',
+                              'assets/img/rita.png',
                             ),
                           ),
                         ),
@@ -161,7 +161,7 @@ class _LoginPageState extends State<LoginPage> {
                   new Container(
                       margin: const EdgeInsets.only(top: 10),
                       child: new RaisedButton(
-                          color: Color(0xff8877ff),
+                          color: Color(0xff8306CF),
                           child: new Text('Ingresar',
                               style: new TextStyle(
                                   fontSize: 20.0, color: Colors.white)),

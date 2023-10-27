@@ -16,7 +16,7 @@ class dashboard extends StatefulWidget {
 
 class _dashboardState extends State<dashboard> {
   Icon customIcon = const Icon(Icons.search);
-  Widget customSearchBar = const Text('WANYOB');
+  Widget customSearchBar = const Text('Rita');
   List<String> _list = ["Hey", "that's", "the", "effect"].toList();
   Duration _duration = Duration(milliseconds: 300);
   Map<String, Map> categorias = {};
@@ -47,7 +47,7 @@ class _dashboardState extends State<dashboard> {
         ),
         appBar: AppBar(
           title: customSearchBar,
-          backgroundColor: Color(0xff8877ff),
+          backgroundColor: Color(0xff8306CF),
           automaticallyImplyLeading: false,
           leading: Builder(
             builder: (BuildContext context) {

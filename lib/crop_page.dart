@@ -77,10 +77,10 @@ class _cropPageState extends State<CropPage> {
   @override
   Widget build(BuildContext context) {
     return new Scaffold(
-        appBar: new AppBar(title: new Text('Edicion de foto'),backgroundColor: Color(0xff8877ff),),
+        appBar: new AppBar(title: new Text('Edicion de foto'),backgroundColor: Color(0xff8306CF),),
         backgroundColor: Colors.black,
         bottomNavigationBar: BottomAppBar(
-          color: Color(0xff8877ff),
+          color: Color(0xff8306CF),
           child: Row(
             mainAxisAlignment: MainAxisAlignment.spaceAround,
             children: <Widget>[

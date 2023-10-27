@@ -92,7 +92,7 @@ class _preRegistroState extends State<preRegistro> {
     return Scaffold(
         appBar: new AppBar(
           title: new Text('Registro'),
-          backgroundColor: Color(0xff8877ff),
+          backgroundColor: Color(0xff8306CF),
         ),
         body: new Container(
             height: double.infinity,
@@ -163,35 +163,11 @@ class _preRegistroState extends State<preRegistro> {
                           new Container(
                               margin: const EdgeInsets.only(top: 10),
                               child: new RaisedButton(
-                                  color: Color(0xff8877ff),
+                                  color: Color(0xff8306CF),
                                   child: new Text('Registrarme',
                                       style: new TextStyle(
                                           fontSize: 20.0, color: Colors.white)),
                                   onPressed: validateAndSubmit)),
-                          new Text('Ó Registrate con Facebook',
-                              textAlign: TextAlign.center,
-                              style: new TextStyle(
-                                  fontSize: 20.0, color: Colors.white)),
-                          new Container(
-                            margin: const EdgeInsets.only(top: 10),
-                            child: RaisedButton(
-                                color: Color(0xff4267B2),
-                                child: Row(
-                                  mainAxisAlignment: MainAxisAlignment.center,
-                                  children: <Widget>[
-                                    FaIcon(
-                                      FontAwesomeIcons.facebook,
-                                      color: Colors.white,
-                                    ),
-                                    Text('  Registrarme',
-                                        textAlign: TextAlign.center,
-                                        style: TextStyle(
-                                            fontSize: 20.0,
-                                            color: Colors.white)),
-                                  ],
-                                ),
-                                onPressed: loginwithfacebook),
-                          ),
                         ])))));
   }
 }
