@@ -1,0 +1,2042 @@
+﻿[
+        {
+            "codigo_depto": "1",
+            "Departamento": "Guatemala",
+            "codigo_municipio": "101",
+            "Municipio": "Guatemala"
+        },
+        {
+            "codigo_depto": "1",
+            "Departamento": "Guatemala",
+            "codigo_municipio": "102",
+            "Municipio": "Santa Catarina Pinula"
+        },
+        {
+            "codigo_depto": "1",
+            "Departamento": "Guatemala",
+            "codigo_municipio": "103",
+            "Municipio": "San José Pinula"
+        },
+        {
+            "codigo_depto": "1",
+            "Departamento": "Guatemala",
+            "codigo_municipio": "104",
+            "Municipio": "San José del Golfo"
+        },
+        {
+            "codigo_depto": "1",
+            "Departamento": "Guatemala",
+            "codigo_municipio": "105",
+            "Municipio": "Palencia"
+        },
+        {
+            "codigo_depto": "1",
+            "Departamento": "Guatemala",
+            "codigo_municipio": "106",
+            "Municipio": "Chinautla"
+        },
+        {
+            "codigo_depto": "1",
+            "Departamento": "Guatemala",
+            "codigo_municipio": "107",
+            "Municipio": "San Pedro Ayampuc"
+        },
+        {
+            "codigo_depto": "1",
+            "Departamento": "Guatemala",
+            "codigo_municipio": "108",
+            "Municipio": "Mixco"
+        },
+        {
+            "codigo_depto": "1",
+            "Departamento": "Guatemala",
+            "codigo_municipio": "109",
+            "Municipio": "San Pedro Sacatepéquez"
+        },
+        {
+            "codigo_depto": "1",
+            "Departamento": "Guatemala",
+            "codigo_municipio": "110",
+            "Municipio": "San Juan Sacatepéquez"
+        },
+        {
+            "codigo_depto": "1",
+            "Departamento": "Guatemala",
+            "codigo_municipio": "111",
+            "Municipio": "San Raymundo"
+        },
+        {
+            "codigo_depto": "1",
+            "Departamento": "Guatemala",
+            "codigo_municipio": "112",
+            "Municipio": "Chuarrancho"
+        },
+        {
+            "codigo_depto": "1",
+            "Departamento": "Guatemala",
+            "codigo_municipio": "113",
+            "Municipio": "Fraijanes"
+        },
+        {
+            "codigo_depto": "1",
+            "Departamento": "Guatemala",
+            "codigo_municipio": "114",
+            "Municipio": "Amatitlán"
+        },
+        {
+            "codigo_depto": "1",
+            "Departamento": "Guatemala",
+            "codigo_municipio": "115",
+            "Municipio": "Villa Nueva"
+        },
+        {
+            "codigo_depto": "1",
+            "Departamento": "Guatemala",
+            "codigo_municipio": "116",
+            "Municipio": "Villa Canales"
+        },
+        {
+            "codigo_depto": "1",
+            "Departamento": "Guatemala",
+            "codigo_municipio": "117",
+            "Municipio": "San Miguel Petapa"
+        },
+        {
+            "codigo_depto": "2",
+            "Departamento": "El Progreso",
+            "codigo_municipio": "201",
+            "Municipio": "Guastatoya"
+        },
+        {
+            "codigo_depto": "2",
+            "Departamento": "El Progreso",
+            "codigo_municipio": "202",
+            "Municipio": "Morazán"
+        },
+        {
+            "codigo_depto": "2",
+            "Departamento": "El Progreso",
+            "codigo_municipio": "203",
+            "Municipio": "San Agustín Acasaguastlán"
+        },
+        {
+            "codigo_depto": "2",
+            "Departamento": "El Progreso",
+            "codigo_municipio": "204",
+            "Municipio": "San Cristóbal Acasaguastlán"
+        },
+        {
+            "codigo_depto": "2",
+            "Departamento": "El Progreso",
+            "codigo_municipio": "205",
+            "Municipio": "El Jícaro"
+        },
+        {
+            "codigo_depto": "2",
+            "Departamento": "El Progreso",
+            "codigo_municipio": "206",
+            "Municipio": "Sansare"
+        },
+        {
+            "codigo_depto": "2",
+            "Departamento": "El Progreso",
+            "codigo_municipio": "207",
+            "Municipio": "Sanarate"
+        },
+        {
+            "codigo_depto": "2",
+            "Departamento": "El Progreso",
+            "codigo_municipio": "208",
+            "Municipio": "San Antonio la Paz"
+        },
+        {
+            "codigo_depto": "3",
+            "Departamento": "Sacatepéquez",
+            "codigo_municipio": "301",
+            "Municipio": "Antigua Guatemala"
+        },
+        {
+            "codigo_depto": "3",
+            "Departamento": "Sacatepéquez",
+            "codigo_municipio": "302",
+            "Municipio": "Jocotenango"
+        },
+        {
+            "codigo_depto": "3",
+            "Departamento": "Sacatepéquez",
+            "codigo_municipio": "303",
+            "Municipio": "Pastores"
+        },
+        {
+            "codigo_depto": "3",
+            "Departamento": "Sacatepéquez",
+            "codigo_municipio": "304",
+            "Municipio": "Sumpango"
+        },
+        {
+            "codigo_depto": "3",
+            "Departamento": "Sacatepéquez",
+            "codigo_municipio": "305",
+            "Municipio": "Santo Domingo Xenacoj"
+        },
+        {
+            "codigo_depto": "3",
+            "Departamento": "Sacatepéquez",
+            "codigo_municipio": "306",
+            "Municipio": "Santiago Sacatepéquez"
+        },
+        {
+            "codigo_depto": "3",
+            "Departamento": "Sacatepéquez",
+            "codigo_municipio": "307",
+            "Municipio": "San Bartolomé Milpas Altas"
+        },
+        {
+            "codigo_depto": "3",
+            "Departamento": "Sacatepéquez",
+            "codigo_municipio": "308",
+            "Municipio": "San Lucas Sacatepéquez"
+        },
+        {
+            "codigo_depto": "3",
+            "Departamento": "Sacatepéquez",
+            "codigo_municipio": "309",
+            "Municipio": "Santa Lucía Milpas Altas"
+        },
+        {
+            "codigo_depto": "3",
+            "Departamento": "Sacatepéquez",
+            "codigo_municipio": "310",
+            "Municipio": "Magdalena Milpas Altas"
+        },
+        {
+            "codigo_depto": "3",
+            "Departamento": "Sacatepéquez",
+            "codigo_municipio": "311",
+            "Municipio": "Santa María de Jesús"
+        },
+        {
+            "codigo_depto": "3",
+            "Departamento": "Sacatepéquez",
+            "codigo_municipio": "312",
+            "Municipio": "Ciudad Vieja"
+        },
+        {
+            "codigo_depto": "3",
+            "Departamento": "Sacatepéquez",
+            "codigo_municipio": "313",
+            "Municipio": "San Miguel Dueñas"
+        },
+        {
+            "codigo_depto": "3",
+            "Departamento": "Sacatepéquez",
+            "codigo_municipio": "314",
+            "Municipio": "San Juan Alotenango"
+        },
+        {
+            "codigo_depto": "3",
+            "Departamento": "Sacatepéquez",
+            "codigo_municipio": "315",
+            "Municipio": "San Antonio Aguas Calientes"
+        },
+        {
+            "codigo_depto": "3",
+            "Departamento": "Sacatepéquez",
+            "codigo_municipio": "316",
+            "Municipio": "Santa Catarina Barahona"
+        },
+        {
+            "codigo_depto": "4",
+            "Departamento": "Chimaltenango",
+            "codigo_municipio": "401",
+            "Municipio": "Chimaltenango"
+        },
+        {
+            "codigo_depto": "4",
+            "Departamento": "Chimaltenango",
+            "codigo_municipio": "402",
+            "Municipio": "San José Poaquil"
+        },
+        {
+            "codigo_depto": "4",
+            "Departamento": "Chimaltenango",
+            "codigo_municipio": "403",
+            "Municipio": "San Martín Jilotepeque"
+        },
+        {
+            "codigo_depto": "4",
+            "Departamento": "Chimaltenango",
+            "codigo_municipio": "404",
+            "Municipio": "San Juan Comalapa"
+        },
+        {
+            "codigo_depto": "4",
+            "Departamento": "Chimaltenango",
+            "codigo_municipio": "405",
+            "Municipio": "Santa Apolonia"
+        },
+        {
+            "codigo_depto": "4",
+            "Departamento": "Chimaltenango",
+            "codigo_municipio": "406",
+            "Municipio": "Tecpán Guatemala"
+        },
+        {
+            "codigo_depto": "4",
+            "Departamento": "Chimaltenango",
+            "codigo_municipio": "407",
+            "Municipio": "Patzún"
+        },
+        {
+            "codigo_depto": "4",
+            "Departamento": "Chimaltenango",
+            "codigo_municipio": "408",
+            "Municipio": "San Miguel Pochuta"
+        },
+        {
+            "codigo_depto": "4",
+            "Departamento": "Chimaltenango",
+            "codigo_municipio": "409",
+            "Municipio": "Patzicía"
+        },
+        {
+            "codigo_depto": "4",
+            "Departamento": "Chimaltenango",
+            "codigo_municipio": "410",
+            "Municipio": "Santa Cruz Balanyá"
+        },
+        {
+            "codigo_depto": "4",
+            "Departamento": "Chimaltenango",
+            "codigo_municipio": "411",
+            "Municipio": "Acatenango"
+        },
+        {
+            "codigo_depto": "4",
+            "Departamento": "Chimaltenango",
+            "codigo_municipio": "412",
+            "Municipio": "San Pedro Yepocapa"
+        },
+        {
+            "codigo_depto": "4",
+            "Departamento": "Chimaltenango",
+            "codigo_municipio": "413",
+            "Municipio": "San Andrés Itzapa"
+        },
+        {
+            "codigo_depto": "4",
+            "Departamento": "Chimaltenango",
+            "codigo_municipio": "414",
+            "Municipio": "Parramos"
+        },
+        {
+            "codigo_depto": "4",
+            "Departamento": "Chimaltenango",
+            "codigo_municipio": "415",
+            "Municipio": "Zaragoza"
+        },
+        {
+            "codigo_depto": "4",
+            "Departamento": "Chimaltenango",
+            "codigo_municipio": "416",
+            "Municipio": "El Tejar"
+        },
+        {
+            "codigo_depto": "5",
+            "Departamento": "Escuintla",
+            "codigo_municipio": "501",
+            "Municipio": "Escuintla"
+        },
+        {
+            "codigo_depto": "5",
+            "Departamento": "Escuintla",
+            "codigo_municipio": "502",
+            "Municipio": "Santa Lucía Cotzumalguapa"
+        },
+        {
+            "codigo_depto": "5",
+            "Departamento": "Escuintla",
+            "codigo_municipio": "503",
+            "Municipio": "La Democracia"
+        },
+        {
+            "codigo_depto": "5",
+            "Departamento": "Escuintla",
+            "codigo_municipio": "504",
+            "Municipio": "Siquinalá"
+        },
+        {
+            "codigo_depto": "5",
+            "Departamento": "Escuintla",
+            "codigo_municipio": "505",
+            "Municipio": "Masagua"
+        },
+        {
+            "codigo_depto": "5",
+            "Departamento": "Escuintla",
+            "codigo_municipio": "506",
+            "Municipio": "Tiquisate"
+        },
+        {
+            "codigo_depto": "5",
+            "Departamento": "Escuintla",
+            "codigo_municipio": "507",
+            "Municipio": "La Gomera"
+        },
+        {
+            "codigo_depto": "5",
+            "Departamento": "Escuintla",
+            "codigo_municipio": "508",
+            "Municipio": "Guanagazapa"
+        },
+        {
+            "codigo_depto": "5",
+            "Departamento": "Escuintla",
+            "codigo_municipio": "509",
+            "Municipio": "San José"
+        },
+        {
+            "codigo_depto": "5",
+            "Departamento": "Escuintla",
+            "codigo_municipio": "510",
+            "Municipio": "Iztapa"
+        },
+        {
+            "codigo_depto": "5",
+            "Departamento": "Escuintla",
+            "codigo_municipio": "511",
+            "Municipio": "Palín"
+        },
+        {
+            "codigo_depto": "5",
+            "Departamento": "Escuintla",
+            "codigo_municipio": "512",
+            "Municipio": "San Vicente Pacaya"
+        },
+        {
+            "codigo_depto": "5",
+            "Departamento": "Escuintla",
+            "codigo_municipio": "513",
+            "Municipio": "Nueva Concepción"
+        },
+        {
+            "codigo_depto": "5",
+            "Departamento": "Escuintla",
+            "codigo_municipio": "514",
+            "Municipio": "Sipacate"
+        },
+        {
+            "codigo_depto": "6",
+            "Departamento": "Santa Rosa",
+            "codigo_municipio": "601",
+            "Municipio": "Cuilapa"
+        },
+        {
+            "codigo_depto": "6",
+            "Departamento": "Santa Rosa",
+            "codigo_municipio": "602",
+            "Municipio": "Barberena"
+        },
+        {
+            "codigo_depto": "6",
+            "Departamento": "Santa Rosa",
+            "codigo_municipio": "603",
+            "Municipio": "Santa Rosa de Lima"
+        },
+        {
+            "codigo_depto": "6",
+            "Departamento": "Santa Rosa",
+            "codigo_municipio": "604",
+            "Municipio": "Casillas"
+        },
+        {
+            "codigo_depto": "6",
+            "Departamento": "Santa Rosa",
+            "codigo_municipio": "605",
+            "Municipio": "San Rafael las Flores"
+        },
+        {
+            "codigo_depto": "6",
+            "Departamento": "Santa Rosa",
+            "codigo_municipio": "606",
+            "Municipio": "Oratorio"
+        },
+        {
+            "codigo_depto": "6",
+            "Departamento": "Santa Rosa",
+            "codigo_municipio": "607",
+            "Municipio": "San Juan Tecuaco"
+        },
+        {
+            "codigo_depto": "6",
+            "Departamento": "Santa Rosa",
+            "codigo_municipio": "608",
+            "Municipio": "Chiquimulilla"
+        },
+        {
+            "codigo_depto": "6",
+            "Departamento": "Santa Rosa",
+            "codigo_municipio": "609",
+            "Municipio": "Taxisco"
+        },
+        {
+            "codigo_depto": "6",
+            "Departamento": "Santa Rosa",
+            "codigo_municipio": "610",
+            "Municipio": "Santa María Ixhuatán"
+        },
+        {
+            "codigo_depto": "6",
+            "Departamento": "Santa Rosa",
+            "codigo_municipio": "611",
+            "Municipio": "Guazacapán"
+        },
+        {
+            "codigo_depto": "6",
+            "Departamento": "Santa Rosa",
+            "codigo_municipio": "612",
+            "Municipio": "Santa Cruz Naranjo"
+        },
+        {
+            "codigo_depto": "6",
+            "Departamento": "Santa Rosa",
+            "codigo_municipio": "613",
+            "Municipio": "Pueblo Nuevo Viñas"
+        },
+        {
+            "codigo_depto": "6",
+            "Departamento": "Santa Rosa",
+            "codigo_municipio": "614",
+            "Municipio": "Nueva Santa Rosa"
+        },
+        {
+            "codigo_depto": "7",
+            "Departamento": "Sololá",
+            "codigo_municipio": "701",
+            "Municipio": "Sololá"
+        },
+        {
+            "codigo_depto": "7",
+            "Departamento": "Sololá",
+            "codigo_municipio": "702",
+            "Municipio": "San José Chacayá"
+        },
+        {
+            "codigo_depto": "7",
+            "Departamento": "Sololá",
+            "codigo_municipio": "703",
+            "Municipio": "Santa María Visitación"
+        },
+        {
+            "codigo_depto": "7",
+            "Departamento": "Sololá",
+            "codigo_municipio": "704",
+            "Municipio": "Santa Lucía Utatlán"
+        },
+        {
+            "codigo_depto": "7",
+            "Departamento": "Sololá",
+            "codigo_municipio": "705",
+            "Municipio": "Nahualá"
+        },
+        {
+            "codigo_depto": "7",
+            "Departamento": "Sololá",
+            "codigo_municipio": "706",
+            "Municipio": "Santa Catarina Ixtahuacán"
+        },
+        {
+            "codigo_depto": "7",
+            "Departamento": "Sololá",
+            "codigo_municipio": "707",
+            "Municipio": "Santa Clara la Laguna"
+        },
+        {
+            "codigo_depto": "7",
+            "Departamento": "Sololá",
+            "codigo_municipio": "708",
+            "Municipio": "Concepción"
+        },
+        {
+            "codigo_depto": "7",
+            "Departamento": "Sololá",
+            "codigo_municipio": "709",
+            "Municipio": "San Andrés Semetabaj"
+        },
+        {
+            "codigo_depto": "7",
+            "Departamento": "Sololá",
+            "codigo_municipio": "710",
+            "Municipio": "Panajachel"
+        },
+        {
+            "codigo_depto": "7",
+            "Departamento": "Sololá",
+            "codigo_municipio": "711",
+            "Municipio": "Santa Catarina Palopó"
+        },
+        {
+            "codigo_depto": "7",
+            "Departamento": "Sololá",
+            "codigo_municipio": "712",
+            "Municipio": "San Antonio Palopó"
+        },
+        {
+            "codigo_depto": "7",
+            "Departamento": "Sololá",
+            "codigo_municipio": "713",
+            "Municipio": "San Lucas Tolimán"
+        },
+        {
+            "codigo_depto": "7",
+            "Departamento": "Sololá",
+            "codigo_municipio": "714",
+            "Municipio": "Santa Cruz la Laguna"
+        },
+        {
+            "codigo_depto": "7",
+            "Departamento": "Sololá",
+            "codigo_municipio": "715",
+            "Municipio": "San Pablo la Laguna"
+        },
+        {
+            "codigo_depto": "7",
+            "Departamento": "Sololá",
+            "codigo_municipio": "716",
+            "Municipio": "San Marcos la Laguna"
+        },
+        {
+            "codigo_depto": "7",
+            "Departamento": "Sololá",
+            "codigo_municipio": "717",
+            "Municipio": "San Juan la Laguna"
+        },
+        {
+            "codigo_depto": "7",
+            "Departamento": "Sololá",
+            "codigo_municipio": "718",
+            "Municipio": "San Pedro la Laguna"
+        },
+        {
+            "codigo_depto": "7",
+            "Departamento": "Sololá",
+            "codigo_municipio": "719",
+            "Municipio": "Santiago Atitlán"
+        },
+        {
+            "codigo_depto": "8",
+            "Departamento": "Totonicapán",
+            "codigo_municipio": "801",
+            "Municipio": "Totonicapán"
+        },
+        {
+            "codigo_depto": "8",
+            "Departamento": "Totonicapán",
+            "codigo_municipio": "802",
+            "Municipio": "San Cristóbal Totonicapán"
+        },
+        {
+            "codigo_depto": "8",
+            "Departamento": "Totonicapán",
+            "codigo_municipio": "803",
+            "Municipio": "San Francisco el Alto"
+        },
+        {
+            "codigo_depto": "8",
+            "Departamento": "Totonicapán",
+            "codigo_municipio": "804",
+            "Municipio": "San Andrés Xecul"
+        },
+        {
+            "codigo_depto": "8",
+            "Departamento": "Totonicapán",
+            "codigo_municipio": "805",
+            "Municipio": "Momostenango"
+        },
+        {
+            "codigo_depto": "8",
+            "Departamento": "Totonicapán",
+            "codigo_municipio": "806",
+            "Municipio": "Santa María Chiquimula"
+        },
+        {
+            "codigo_depto": "8",
+            "Departamento": "Totonicapán",
+            "codigo_municipio": "807",
+            "Municipio": "Santa Lucía la Reforma"
+        },
+        {
+            "codigo_depto": "8",
+            "Departamento": "Totonicapán",
+            "codigo_municipio": "808",
+            "Municipio": "San Bartolo Aguas Calientes"
+        },
+        {
+            "codigo_depto": "9",
+            "Departamento": "Quetzaltenango",
+            "codigo_municipio": "901",
+            "Municipio": "Quetzaltenango"
+        },
+        {
+            "codigo_depto": "9",
+            "Departamento": "Quetzaltenango",
+            "codigo_municipio": "902",
+            "Municipio": "Salcajá"
+        },
+        {
+            "codigo_depto": "9",
+            "Departamento": "Quetzaltenango",
+            "codigo_municipio": "903",
+            "Municipio": "San Juan Olintepeque"
+        },
+        {
+            "codigo_depto": "9",
+            "Departamento": "Quetzaltenango",
+            "codigo_municipio": "904",
+            "Municipio": "San Carlos Sija"
+        },
+        {
+            "codigo_depto": "9",
+            "Departamento": "Quetzaltenango",
+            "codigo_municipio": "905",
+            "Municipio": "Sibilia"
+        },
+        {
+            "codigo_depto": "9",
+            "Departamento": "Quetzaltenango",
+            "codigo_municipio": "906",
+            "Municipio": "Cabricán"
+        },
+        {
+            "codigo_depto": "9",
+            "Departamento": "Quetzaltenango",
+            "codigo_municipio": "907",
+            "Municipio": "Cajolá"
+        },
+        {
+            "codigo_depto": "9",
+            "Departamento": "Quetzaltenango",
+            "codigo_municipio": "908",
+            "Municipio": "San Miguel Siguilá"
+        },
+        {
+            "codigo_depto": "9",
+            "Departamento": "Quetzaltenango",
+            "codigo_municipio": "909",
+            "Municipio": "San Juan Ostuncalco"
+        },
+        {
+            "codigo_depto": "9",
+            "Departamento": "Quetzaltenango",
+            "codigo_municipio": "910",
+            "Municipio": "San Mateo"
+        },
+        {
+            "codigo_depto": "9",
+            "Departamento": "Quetzaltenango",
+            "codigo_municipio": "911",
+            "Municipio": "Concepción Chiquirichapa"
+        },
+        {
+            "codigo_depto": "9",
+            "Departamento": "Quetzaltenango",
+            "codigo_municipio": "912",
+            "Municipio": "San Martín Sacatepéquez"
+        },
+        {
+            "codigo_depto": "9",
+            "Departamento": "Quetzaltenango",
+            "codigo_municipio": "913",
+            "Municipio": "Almolonga"
+        },
+        {
+            "codigo_depto": "9",
+            "Departamento": "Quetzaltenango",
+            "codigo_municipio": "914",
+            "Municipio": "Cantel"
+        },
+        {
+            "codigo_depto": "9",
+            "Departamento": "Quetzaltenango",
+            "codigo_municipio": "915",
+            "Municipio": "Huitán"
+        },
+        {
+            "codigo_depto": "9",
+            "Departamento": "Quetzaltenango",
+            "codigo_municipio": "916",
+            "Municipio": "Zunil"
+        },
+        {
+            "codigo_depto": "9",
+            "Departamento": "Quetzaltenango",
+            "codigo_municipio": "917",
+            "Municipio": "Colomba Costa Cuca"
+        },
+        {
+            "codigo_depto": "9",
+            "Departamento": "Quetzaltenango",
+            "codigo_municipio": "918",
+            "Municipio": "San Francisco la Unión"
+        },
+        {
+            "codigo_depto": "9",
+            "Departamento": "Quetzaltenango",
+            "codigo_municipio": "919",
+            "Municipio": "El Palmar"
+        },
+        {
+            "codigo_depto": "9",
+            "Departamento": "Quetzaltenango",
+            "codigo_municipio": "920",
+            "Municipio": "Coatepeque"
+        },
+        {
+            "codigo_depto": "9",
+            "Departamento": "Quetzaltenango",
+            "codigo_municipio": "921",
+            "Municipio": "Génova"
+        },
+        {
+            "codigo_depto": "9",
+            "Departamento": "Quetzaltenango",
+            "codigo_municipio": "922",
+            "Municipio": "Flores Costa Cuca"
+        },
+        {
+            "codigo_depto": "9",
+            "Departamento": "Quetzaltenango",
+            "codigo_municipio": "923",
+            "Municipio": "La Esperanza"
+        },
+        {
+            "codigo_depto": "9",
+            "Departamento": "Quetzaltenango",
+            "codigo_municipio": "924",
+            "Municipio": "Palestina de los Altos"
+        },
+        {
+            "codigo_depto": "10",
+            "Departamento": "Suchitepéquez",
+            "codigo_municipio": "1001",
+            "Municipio": "Mazatenango"
+        },
+        {
+            "codigo_depto": "10",
+            "Departamento": "Suchitepéquez",
+            "codigo_municipio": "1002",
+            "Municipio": "Cuyotenango"
+        },
+        {
+            "codigo_depto": "10",
+            "Departamento": "Suchitepéquez",
+            "codigo_municipio": "1003",
+            "Municipio": "San Francisco Zapotitlán"
+        },
+        {
+            "codigo_depto": "10",
+            "Departamento": "Suchitepéquez",
+            "codigo_municipio": "1004",
+            "Municipio": "San Bernardino"
+        },
+        {
+            "codigo_depto": "10",
+            "Departamento": "Suchitepéquez",
+            "codigo_municipio": "1005",
+            "Municipio": "San José el Ídolo"
+        },
+        {
+            "codigo_depto": "10",
+            "Departamento": "Suchitepéquez",
+            "codigo_municipio": "1006",
+            "Municipio": "Santo Domingo Suchitepéquez"
+        },
+        {
+            "codigo_depto": "10",
+            "Departamento": "Suchitepéquez",
+            "codigo_municipio": "1007",
+            "Municipio": "San Lorenzo"
+        },
+        {
+            "codigo_depto": "10",
+            "Departamento": "Suchitepéquez",
+            "codigo_municipio": "1008",
+            "Municipio": "Samayac"
+        },
+        {
+            "codigo_depto": "10",
+            "Departamento": "Suchitepéquez",
+            "codigo_municipio": "1009",
+            "Municipio": "San Pablo Jocopilas"
+        },
+        {
+            "codigo_depto": "10",
+            "Departamento": "Suchitepéquez",
+            "codigo_municipio": "1010",
+            "Municipio": "San Antonio Suchitepéquez"
+        },
+        {
+            "codigo_depto": "10",
+            "Departamento": "Suchitepéquez",
+            "codigo_municipio": "1011",
+            "Municipio": "San Miguel Panán"
+        },
+        {
+            "codigo_depto": "10",
+            "Departamento": "Suchitepéquez",
+            "codigo_municipio": "1012",
+            "Municipio": "San Gabriel"
+        },
+        {
+            "codigo_depto": "10",
+            "Departamento": "Suchitepéquez",
+            "codigo_municipio": "1013",
+            "Municipio": "Chicacao"
+        },
+        {
+            "codigo_depto": "10",
+            "Departamento": "Suchitepéquez",
+            "codigo_municipio": "1014",
+            "Municipio": "Patulul"
+        },
+        {
+            "codigo_depto": "10",
+            "Departamento": "Suchitepéquez",
+            "codigo_municipio": "1015",
+            "Municipio": "Santa Bárbara"
+        },
+        {
+            "codigo_depto": "10",
+            "Departamento": "Suchitepéquez",
+            "codigo_municipio": "1016",
+            "Municipio": "San Juan Bautista"
+        },
+        {
+            "codigo_depto": "10",
+            "Departamento": "Suchitepéquez",
+            "codigo_municipio": "1017",
+            "Municipio": "Santo Tomas la Unión"
+        },
+        {
+            "codigo_depto": "10",
+            "Departamento": "Suchitepéquez",
+            "codigo_municipio": "1018",
+            "Municipio": "Zunilito"
+        },
+        {
+            "codigo_depto": "10",
+            "Departamento": "Suchitepéquez",
+            "codigo_municipio": "1019",
+            "Municipio": "Pueblo Nuevo"
+        },
+        {
+            "codigo_depto": "10",
+            "Departamento": "Suchitepéquez",
+            "codigo_municipio": "1020",
+            "Municipio": "Río Bravo"
+        },
+        {
+            "codigo_depto": "10",
+            "Departamento": "Suchitepéquez",
+            "codigo_municipio": "1021",
+            "Municipio": "San José La Máquina"
+        },
+        {
+            "codigo_depto": "11",
+            "Departamento": "Retalhuleu",
+            "codigo_municipio": "1101",
+            "Municipio": "Retalhuleu"
+        },
+        {
+            "codigo_depto": "11",
+            "Departamento": "Retalhuleu",
+            "codigo_municipio": "1102",
+            "Municipio": "San Sebastián"
+        },
+        {
+            "codigo_depto": "11",
+            "Departamento": "Retalhuleu",
+            "codigo_municipio": "1103",
+            "Municipio": "Santa Cruz Muluá"
+        },
+        {
+            "codigo_depto": "11",
+            "Departamento": "Retalhuleu",
+            "codigo_municipio": "1104",
+            "Municipio": "San Martín Zapotitlán"
+        },
+        {
+            "codigo_depto": "11",
+            "Departamento": "Retalhuleu",
+            "codigo_municipio": "1105",
+            "Municipio": "San Felipe"
+        },
+        {
+            "codigo_depto": "11",
+            "Departamento": "Retalhuleu",
+            "codigo_municipio": "1106",
+            "Municipio": "San Andrés Villa Seca"
+        },
+        {
+            "codigo_depto": "11",
+            "Departamento": "Retalhuleu",
+            "codigo_municipio": "1107",
+            "Municipio": "Champerico"
+        },
+        {
+            "codigo_depto": "11",
+            "Departamento": "Retalhuleu",
+            "codigo_municipio": "1108",
+            "Municipio": "Nuevo San Carlos"
+        },
+        {
+            "codigo_depto": "11",
+            "Departamento": "Retalhuleu",
+            "codigo_municipio": "1109",
+            "Municipio": "El Asintal"
+        },
+        {
+            "codigo_depto": "12",
+            "Departamento": "San Marcos",
+            "codigo_municipio": "1201",
+            "Municipio": "San Marcos"
+        },
+        {
+            "codigo_depto": "12",
+            "Departamento": "San Marcos",
+            "codigo_municipio": "1202",
+            "Municipio": "San Pedro Sacatepéquez"
+        },
+        {
+            "codigo_depto": "12",
+            "Departamento": "San Marcos",
+            "codigo_municipio": "1203",
+            "Municipio": "San Antonio Sacatepéquez"
+        },
+        {
+            "codigo_depto": "12",
+            "Departamento": "San Marcos",
+            "codigo_municipio": "1204",
+            "Municipio": "Comitancillo"
+        },
+        {
+            "codigo_depto": "12",
+            "Departamento": "San Marcos",
+            "codigo_municipio": "1205",
+            "Municipio": "San Miguel Ixtahuacán"
+        },
+        {
+            "codigo_depto": "12",
+            "Departamento": "San Marcos",
+            "codigo_municipio": "1206",
+            "Municipio": "Concepción Tutuapa"
+        },
+        {
+            "codigo_depto": "12",
+            "Departamento": "San Marcos",
+            "codigo_municipio": "1207",
+            "Municipio": "Tacaná"
+        },
+        {
+            "codigo_depto": "12",
+            "Departamento": "San Marcos",
+            "codigo_municipio": "1208",
+            "Municipio": "Sibinal"
+        },
+        {
+            "codigo_depto": "12",
+            "Departamento": "San Marcos",
+            "codigo_municipio": "1209",
+            "Municipio": "Tajumulco"
+        },
+        {
+            "codigo_depto": "12",
+            "Departamento": "San Marcos",
+            "codigo_municipio": "1210",
+            "Municipio": "Tejutla"
+        },
+        {
+            "codigo_depto": "12",
+            "Departamento": "San Marcos",
+            "codigo_municipio": "1211",
+            "Municipio": "San Rafael Pie de la Cuesta"
+        },
+        {
+            "codigo_depto": "12",
+            "Departamento": "San Marcos",
+            "codigo_municipio": "1212",
+            "Municipio": "Nuevo Progreso"
+        },
+        {
+            "codigo_depto": "12",
+            "Departamento": "San Marcos",
+            "codigo_municipio": "1213",
+            "Municipio": "El Tumbador"
+        },
+        {
+            "codigo_depto": "12",
+            "Departamento": "San Marcos",
+            "codigo_municipio": "1214",
+            "Municipio": "San José el Rodeo"
+        },
+        {
+            "codigo_depto": "12",
+            "Departamento": "San Marcos",
+            "codigo_municipio": "1215",
+            "Municipio": "Malacatán"
+        },
+        {
+            "codigo_depto": "12",
+            "Departamento": "San Marcos",
+            "codigo_municipio": "1216",
+            "Municipio": "Catarina"
+        },
+        {
+            "codigo_depto": "12",
+            "Departamento": "San Marcos",
+            "codigo_municipio": "1217",
+            "Municipio": "Ayutla"
+        },
+        {
+            "codigo_depto": "12",
+            "Departamento": "San Marcos",
+            "codigo_municipio": "1218",
+            "Municipio": "Ocós"
+        },
+        {
+            "codigo_depto": "12",
+            "Departamento": "San Marcos",
+            "codigo_municipio": "1219",
+            "Municipio": "San Pablo"
+        },
+        {
+            "codigo_depto": "12",
+            "Departamento": "San Marcos",
+            "codigo_municipio": "1220",
+            "Municipio": "El Quetzal"
+        },
+        {
+            "codigo_depto": "12",
+            "Departamento": "San Marcos",
+            "codigo_municipio": "1221",
+            "Municipio": "La Reforma"
+        },
+        {
+            "codigo_depto": "12",
+            "Departamento": "San Marcos",
+            "codigo_municipio": "1222",
+            "Municipio": "Pajapita"
+        },
+        {
+            "codigo_depto": "12",
+            "Departamento": "San Marcos",
+            "codigo_municipio": "1223",
+            "Municipio": "Ixchiguán"
+        },
+        {
+            "codigo_depto": "12",
+            "Departamento": "San Marcos",
+            "codigo_municipio": "1224",
+            "Municipio": "San José Ojetenam"
+        },
+        {
+            "codigo_depto": "12",
+            "Departamento": "San Marcos",
+            "codigo_municipio": "1225",
+            "Municipio": "San Cristóbal Cucho"
+        },
+        {
+            "codigo_depto": "12",
+            "Departamento": "San Marcos",
+            "codigo_municipio": "1226",
+            "Municipio": "Sipacapa"
+        },
+        {
+            "codigo_depto": "12",
+            "Departamento": "San Marcos",
+            "codigo_municipio": "1227",
+            "Municipio": "Esquipulas Palo Gordo"
+        },
+        {
+            "codigo_depto": "12",
+            "Departamento": "San Marcos",
+            "codigo_municipio": "1228",
+            "Municipio": "Río Blanco"
+        },
+        {
+            "codigo_depto": "12",
+            "Departamento": "San Marcos",
+            "codigo_municipio": "1229",
+            "Municipio": "San Lorenzo"
+        },
+        {
+            "codigo_depto": "12",
+            "Departamento": "San Marcos",
+            "codigo_municipio": "1230",
+            "Municipio": "La Blanca"
+        },
+        {
+            "codigo_depto": "13",
+            "Departamento": "Huehuetenango",
+            "codigo_municipio": "1301",
+            "Municipio": "Huehuetenango"
+        },
+        {
+            "codigo_depto": "13",
+            "Departamento": "Huehuetenango",
+            "codigo_municipio": "1302",
+            "Municipio": "Chiantla"
+        },
+        {
+            "codigo_depto": "13",
+            "Departamento": "Huehuetenango",
+            "codigo_municipio": "1303",
+            "Municipio": "Malacatancito"
+        },
+        {
+            "codigo_depto": "13",
+            "Departamento": "Huehuetenango",
+            "codigo_municipio": "1304",
+            "Municipio": "Cuilco"
+        },
+        {
+            "codigo_depto": "13",
+            "Departamento": "Huehuetenango",
+            "codigo_municipio": "1305",
+            "Municipio": "Nentón"
+        },
+        {
+            "codigo_depto": "13",
+            "Departamento": "Huehuetenango",
+            "codigo_municipio": "1306",
+            "Municipio": "San Pedro Necta"
+        },
+        {
+            "codigo_depto": "13",
+            "Departamento": "Huehuetenango",
+            "codigo_municipio": "1307",
+            "Municipio": "Jacaltenango"
+        },
+        {
+            "codigo_depto": "13",
+            "Departamento": "Huehuetenango",
+            "codigo_municipio": "1308",
+            "Municipio": "San Pedro Soloma"
+        },
+        {
+            "codigo_depto": "13",
+            "Departamento": "Huehuetenango",
+            "codigo_municipio": "1309",
+            "Municipio": "San Ildefonso Ixtahuacán"
+        },
+        {
+            "codigo_depto": "13",
+            "Departamento": "Huehuetenango",
+            "codigo_municipio": "1310",
+            "Municipio": "Santa Bárbara"
+        },
+        {
+            "codigo_depto": "13",
+            "Departamento": "Huehuetenango",
+            "codigo_municipio": "1311",
+            "Municipio": "La Libertad"
+        },
+        {
+            "codigo_depto": "13",
+            "Departamento": "Huehuetenango",
+            "codigo_municipio": "1312",
+            "Municipio": "La Democracia"
+        },
+        {
+            "codigo_depto": "13",
+            "Departamento": "Huehuetenango",
+            "codigo_municipio": "1313",
+            "Municipio": "San Miguel Acatán"
+        },
+        {
+            "codigo_depto": "13",
+            "Departamento": "Huehuetenango",
+            "codigo_municipio": "1314",
+            "Municipio": "San Rafael La Independencia"
+        },
+        {
+            "codigo_depto": "13",
+            "Departamento": "Huehuetenango",
+            "codigo_municipio": "1315",
+            "Municipio": "Todos Santos Cuchumatán"
+        },
+        {
+            "codigo_depto": "13",
+            "Departamento": "Huehuetenango",
+            "codigo_municipio": "1316",
+            "Municipio": "San Juan Atitán"
+        },
+        {
+            "codigo_depto": "13",
+            "Departamento": "Huehuetenango",
+            "codigo_municipio": "1317",
+            "Municipio": "Santa Eulalia"
+        },
+        {
+            "codigo_depto": "13",
+            "Departamento": "Huehuetenango",
+            "codigo_municipio": "1318",
+            "Municipio": "San Mateo Ixtatán"
+        },
+        {
+            "codigo_depto": "13",
+            "Departamento": "Huehuetenango",
+            "codigo_municipio": "1319",
+            "Municipio": "Colotenango"
+        },
+        {
+            "codigo_depto": "13",
+            "Departamento": "Huehuetenango",
+            "codigo_municipio": "1320",
+            "Municipio": "San Sebastián Huehuetenango"
+        },
+        {
+            "codigo_depto": "13",
+            "Departamento": "Huehuetenango",
+            "codigo_municipio": "1321",
+            "Municipio": "Tectitán"
+        },
+        {
+            "codigo_depto": "13",
+            "Departamento": "Huehuetenango",
+            "codigo_municipio": "1322",
+            "Municipio": "Concepción Huista"
+        },
+        {
+            "codigo_depto": "13",
+            "Departamento": "Huehuetenango",
+            "codigo_municipio": "1323",
+            "Municipio": "San Juan Ixcoy"
+        },
+        {
+            "codigo_depto": "13",
+            "Departamento": "Huehuetenango",
+            "codigo_municipio": "1324",
+            "Municipio": "San Antonio Huista"
+        },
+        {
+            "codigo_depto": "13",
+            "Departamento": "Huehuetenango",
+            "codigo_municipio": "1325",
+            "Municipio": "San Sebastián Coatán"
+        },
+        {
+            "codigo_depto": "13",
+            "Departamento": "Huehuetenango",
+            "codigo_municipio": "1326",
+            "Municipio": "Santa Cruz Barillas"
+        },
+        {
+            "codigo_depto": "13",
+            "Departamento": "Huehuetenango",
+            "codigo_municipio": "1327",
+            "Municipio": "Aguacatán"
+        },
+        {
+            "codigo_depto": "13",
+            "Departamento": "Huehuetenango",
+            "codigo_municipio": "1328",
+            "Municipio": "San Rafael Petzal"
+        },
+        {
+            "codigo_depto": "13",
+            "Departamento": "Huehuetenango",
+            "codigo_municipio": "1329",
+            "Municipio": "San Gaspar Ixchil"
+        },
+        {
+            "codigo_depto": "13",
+            "Departamento": "Huehuetenango",
+            "codigo_municipio": "1330",
+            "Municipio": "Santiago Chimaltenango"
+        },
+        {
+            "codigo_depto": "13",
+            "Departamento": "Huehuetenango",
+            "codigo_municipio": "1331",
+            "Municipio": "Santa Ana Huista"
+        },
+        {
+            "codigo_depto": "13",
+            "Departamento": "Huehuetenango",
+            "codigo_municipio": "1332",
+            "Municipio": "Unión Cantinil"
+        },
+        {
+            "codigo_depto": "13",
+            "Departamento": "Huehuetenango",
+            "codigo_municipio": "1333",
+            "Municipio": "Petatán"
+        },
+        {
+            "codigo_depto": "14",
+            "Departamento": "Quiché",
+            "codigo_municipio": "1401",
+            "Municipio": "Santa Cruz del Quiché"
+        },
+        {
+            "codigo_depto": "14",
+            "Departamento": "Quiché",
+            "codigo_municipio": "1402",
+            "Municipio": "Chiché"
+        },
+        {
+            "codigo_depto": "14",
+            "Departamento": "Quiché",
+            "codigo_municipio": "1403",
+            "Municipio": "Chinique"
+        },
+        {
+            "codigo_depto": "14",
+            "Departamento": "Quiché",
+            "codigo_municipio": "1404",
+            "Municipio": "Zacualpa"
+        },
+        {
+            "codigo_depto": "14",
+            "Departamento": "Quiché",
+            "codigo_municipio": "1405",
+            "Municipio": "Chajul"
+        },
+        {
+            "codigo_depto": "14",
+            "Departamento": "Quiché",
+            "codigo_municipio": "1406",
+            "Municipio": "Santo Tomás Chichicastenango"
+        },
+        {
+            "codigo_depto": "14",
+            "Departamento": "Quiché",
+            "codigo_municipio": "1407",
+            "Municipio": "Patzité"
+        },
+        {
+            "codigo_depto": "14",
+            "Departamento": "Quiché",
+            "codigo_municipio": "1408",
+            "Municipio": "San Antonio Ilotenango"
+        },
+        {
+            "codigo_depto": "14",
+            "Departamento": "Quiché",
+            "codigo_municipio": "1409",
+            "Municipio": "San Pedro Jocopilas"
+        },
+        {
+            "codigo_depto": "14",
+            "Departamento": "Quiché",
+            "codigo_municipio": "1410",
+            "Municipio": "Cunén"
+        },
+        {
+            "codigo_depto": "14",
+            "Departamento": "Quiché",
+            "codigo_municipio": "1411",
+            "Municipio": "San Juan Cotzal"
+        },
+        {
+            "codigo_depto": "14",
+            "Departamento": "Quiché",
+            "codigo_municipio": "1412",
+            "Municipio": "Joyabaj"
+        },
+        {
+            "codigo_depto": "14",
+            "Departamento": "Quiché",
+            "codigo_municipio": "1413",
+            "Municipio": "Santa María Nebaj"
+        },
+        {
+            "codigo_depto": "14",
+            "Departamento": "Quiché",
+            "codigo_municipio": "1414",
+            "Municipio": "San Andrés Sajcabajá"
+        },
+        {
+            "codigo_depto": "14",
+            "Departamento": "Quiché",
+            "codigo_municipio": "1415",
+            "Municipio": "San Miguel Uspantán"
+        },
+        {
+            "codigo_depto": "14",
+            "Departamento": "Quiché",
+            "codigo_municipio": "1416",
+            "Municipio": "Sacapulas"
+        },
+        {
+            "codigo_depto": "14",
+            "Departamento": "Quiché",
+            "codigo_municipio": "1417",
+            "Municipio": "San Bartolomé Jocotenango"
+        },
+        {
+            "codigo_depto": "14",
+            "Departamento": "Quiché",
+            "codigo_municipio": "1418",
+            "Municipio": "Canillá"
+        },
+        {
+            "codigo_depto": "14",
+            "Departamento": "Quiché",
+            "codigo_municipio": "1419",
+            "Municipio": "Chicamán"
+        },
+        {
+            "codigo_depto": "14",
+            "Departamento": "Quiché",
+            "codigo_municipio": "1420",
+            "Municipio": "Playa Grande Ixcán"
+        },
+        {
+            "codigo_depto": "14",
+            "Departamento": "Quiché",
+            "codigo_municipio": "1421",
+            "Municipio": "Pachalum"
+        },
+        {
+            "codigo_depto": "15",
+            "Departamento": "Baja Verapaz",
+            "codigo_municipio": "1501",
+            "Municipio": "Salamá"
+        },
+        {
+            "codigo_depto": "15",
+            "Departamento": "Baja Verapaz",
+            "codigo_municipio": "1502",
+            "Municipio": "San Miguel Chicaj"
+        },
+        {
+            "codigo_depto": "15",
+            "Departamento": "Baja Verapaz",
+            "codigo_municipio": "1503",
+            "Municipio": "Rabinal"
+        },
+        {
+            "codigo_depto": "15",
+            "Departamento": "Baja Verapaz",
+            "codigo_municipio": "1504",
+            "Municipio": "Cubulco"
+        },
+        {
+            "codigo_depto": "15",
+            "Departamento": "Baja Verapaz",
+            "codigo_municipio": "1505",
+            "Municipio": "Granados"
+        },
+        {
+            "codigo_depto": "15",
+            "Departamento": "Baja Verapaz",
+            "codigo_municipio": "1506",
+            "Municipio": "Santa Cruz El Chol"
+        },
+        {
+            "codigo_depto": "15",
+            "Departamento": "Baja Verapaz",
+            "codigo_municipio": "1507",
+            "Municipio": "San Jerónimo"
+        },
+        {
+            "codigo_depto": "15",
+            "Departamento": "Baja Verapaz",
+            "codigo_municipio": "1508",
+            "Municipio": "Purulhá"
+        },
+        {
+            "codigo_depto": "16",
+            "Departamento": "Alta Verapaz",
+            "codigo_municipio": "1601",
+            "Municipio": "Cobán"
+        },
+        {
+            "codigo_depto": "16",
+            "Departamento": "Alta Verapaz",
+            "codigo_municipio": "1602",
+            "Municipio": "Santa Cruz Verapaz"
+        },
+        {
+            "codigo_depto": "16",
+            "Departamento": "Alta Verapaz",
+            "codigo_municipio": "1603",
+            "Municipio": "San Cristóbal Verapaz"
+        },
+        {
+            "codigo_depto": "16",
+            "Departamento": "Alta Verapaz",
+            "codigo_municipio": "1604",
+            "Municipio": "Tactic"
+        },
+        {
+            "codigo_depto": "16",
+            "Departamento": "Alta Verapaz",
+            "codigo_municipio": "1605",
+            "Municipio": "Tamahú"
+        },
+        {
+            "codigo_depto": "16",
+            "Departamento": "Alta Verapaz",
+            "codigo_municipio": "1606",
+            "Municipio": "San Miguel Tucurú"
+        },
+        {
+            "codigo_depto": "16",
+            "Departamento": "Alta Verapaz",
+            "codigo_municipio": "1607",
+            "Municipio": "Panzós"
+        },
+        {
+            "codigo_depto": "16",
+            "Departamento": "Alta Verapaz",
+            "codigo_municipio": "1608",
+            "Municipio": "Senahú"
+        },
+        {
+            "codigo_depto": "16",
+            "Departamento": "Alta Verapaz",
+            "codigo_municipio": "1609",
+            "Municipio": "San Pedro Carchá"
+        },
+        {
+            "codigo_depto": "16",
+            "Departamento": "Alta Verapaz",
+            "codigo_municipio": "1610",
+            "Municipio": "San Juan Chamelco"
+        },
+        {
+            "codigo_depto": "16",
+            "Departamento": "Alta Verapaz",
+            "codigo_municipio": "1611",
+            "Municipio": "San Agustín Lanquín"
+        },
+        {
+            "codigo_depto": "16",
+            "Departamento": "Alta Verapaz",
+            "codigo_municipio": "1612",
+            "Municipio": "Santa María Cahabón"
+        },
+        {
+            "codigo_depto": "16",
+            "Departamento": "Alta Verapaz",
+            "codigo_municipio": "1613",
+            "Municipio": "Chisec"
+        },
+        {
+            "codigo_depto": "16",
+            "Departamento": "Alta Verapaz",
+            "codigo_municipio": "1614",
+            "Municipio": "Chahal"
+        },
+        {
+            "codigo_depto": "16",
+            "Departamento": "Alta Verapaz",
+            "codigo_municipio": "1615",
+            "Municipio": "Fray Bartolomé de las Casas"
+        },
+        {
+            "codigo_depto": "16",
+            "Departamento": "Alta Verapaz",
+            "codigo_municipio": "1616",
+            "Municipio": "Santa Catalina La Tinta"
+        },
+        {
+            "codigo_depto": "16",
+            "Departamento": "Alta Verapaz",
+            "codigo_municipio": "1617",
+            "Municipio": "Raxruhá"
+        },
+        {
+            "codigo_depto": "17",
+            "Departamento": "Petén",
+            "codigo_municipio": "1701",
+            "Municipio": "Flores"
+        },
+        {
+            "codigo_depto": "17",
+            "Departamento": "Petén",
+            "codigo_municipio": "1702",
+            "Municipio": "San José"
+        },
+        {
+            "codigo_depto": "17",
+            "Departamento": "Petén",
+            "codigo_municipio": "1703",
+            "Municipio": "San Benito"
+        },
+        {
+            "codigo_depto": "17",
+            "Departamento": "Petén",
+            "codigo_municipio": "1704",
+            "Municipio": "San Andrés"
+        },
+        {
+            "codigo_depto": "17",
+            "Departamento": "Petén",
+            "codigo_municipio": "1705",
+            "Municipio": "La Libertad"
+        },
+        {
+            "codigo_depto": "17",
+            "Departamento": "Petén",
+            "codigo_municipio": "1706",
+            "Municipio": "San Francisco"
+        },
+        {
+            "codigo_depto": "17",
+            "Departamento": "Petén",
+            "codigo_municipio": "1707",
+            "Municipio": "Santa Ana"
+        },
+        {
+            "codigo_depto": "17",
+            "Departamento": "Petén",
+            "codigo_municipio": "1708",
+            "Municipio": "Dolores"
+        },
+        {
+            "codigo_depto": "17",
+            "Departamento": "Petén",
+            "codigo_municipio": "1709",
+            "Municipio": "San Luis"
+        },
+        {
+            "codigo_depto": "17",
+            "Departamento": "Petén",
+            "codigo_municipio": "1710",
+            "Municipio": "Sayaxché"
+        },
+        {
+            "codigo_depto": "17",
+            "Departamento": "Petén",
+            "codigo_municipio": "1711",
+            "Municipio": "Melchor de Mencos"
+        },
+        {
+            "codigo_depto": "17",
+            "Departamento": "Petén",
+            "codigo_municipio": "1712",
+            "Municipio": "Poptún"
+        },
+        {
+            "codigo_depto": "17",
+            "Departamento": "Petén",
+            "codigo_municipio": "1713",
+            "Municipio": "Las Cruces"
+        },
+        {
+            "codigo_depto": "17",
+            "Departamento": "Petén",
+            "codigo_municipio": "1714",
+            "Municipio": "El Chal"
+        },
+        {
+            "codigo_depto": "18",
+            "Departamento": "Izabal",
+            "codigo_municipio": "1801",
+            "Municipio": "Puerto Barrios"
+        },
+        {
+            "codigo_depto": "18",
+            "Departamento": "Izabal",
+            "codigo_municipio": "1802",
+            "Municipio": "Livingston"
+        },
+        {
+            "codigo_depto": "18",
+            "Departamento": "Izabal",
+            "codigo_municipio": "1803",
+            "Municipio": "El Estor"
+        },
+        {
+            "codigo_depto": "18",
+            "Departamento": "Izabal",
+            "codigo_municipio": "1804",
+            "Municipio": "Morales"
+        },
+        {
+            "codigo_depto": "18",
+            "Departamento": "Izabal",
+            "codigo_municipio": "1805",
+            "Municipio": "Los Amates"
+        },
+        {
+            "codigo_depto": "19",
+            "Departamento": "Zacapa",
+            "codigo_municipio": "1901",
+            "Municipio": "Zacapa"
+        },
+        {
+            "codigo_depto": "19",
+            "Departamento": "Zacapa",
+            "codigo_municipio": "1902",
+            "Municipio": "Estanzuela"
+        },
+        {
+            "codigo_depto": "19",
+            "Departamento": "Zacapa",
+            "codigo_municipio": "1903",
+            "Municipio": "Río Hondo"
+        },
+        {
+            "codigo_depto": "19",
+            "Departamento": "Zacapa",
+            "codigo_municipio": "1904",
+            "Municipio": "Gualán"
+        },
+        {
+            "codigo_depto": "19",
+            "Departamento": "Zacapa",
+            "codigo_municipio": "1905",
+            "Municipio": "Teculután"
+        },
+        {
+            "codigo_depto": "19",
+            "Departamento": "Zacapa",
+            "codigo_municipio": "1906",
+            "Municipio": "Usumatlán"
+        },
+        {
+            "codigo_depto": "19",
+            "Departamento": "Zacapa",
+            "codigo_municipio": "1907",
+            "Municipio": "Cabañas"
+        },
+        {
+            "codigo_depto": "19",
+            "Departamento": "Zacapa",
+            "codigo_municipio": "1908",
+            "Municipio": "San Diego"
+        },
+        {
+            "codigo_depto": "19",
+            "Departamento": "Zacapa",
+            "codigo_municipio": "1909",
+            "Municipio": "La Unión"
+        },
+        {
+            "codigo_depto": "19",
+            "Departamento": "Zacapa",
+            "codigo_municipio": "1910",
+            "Municipio": "Huité"
+        },
+        {
+            "codigo_depto": "19",
+            "Departamento": "Zacapa",
+            "codigo_municipio": "1911",
+            "Municipio": "San Jorge"
+        },
+        {
+            "codigo_depto": "20",
+            "Departamento": "Chiquimula",
+            "codigo_municipio": "2001",
+            "Municipio": "Chiquimula"
+        },
+        {
+            "codigo_depto": "20",
+            "Departamento": "Chiquimula",
+            "codigo_municipio": "2002",
+            "Municipio": "San José la Arada"
+        },
+        {
+            "codigo_depto": "20",
+            "Departamento": "Chiquimula",
+            "codigo_municipio": "2003",
+            "Municipio": "San Juan Ermita"
+        },
+        {
+            "codigo_depto": "20",
+            "Departamento": "Chiquimula",
+            "codigo_municipio": "2004",
+            "Municipio": "Jocotán"
+        },
+        {
+            "codigo_depto": "20",
+            "Departamento": "Chiquimula",
+            "codigo_municipio": "2005",
+            "Municipio": "Camotán"
+        },
+        {
+            "codigo_depto": "20",
+            "Departamento": "Chiquimula",
+            "codigo_municipio": "2006",
+            "Municipio": "Olopa"
+        },
+        {
+            "codigo_depto": "20",
+            "Departamento": "Chiquimula",
+            "codigo_municipio": "2007",
+            "Municipio": "Esquipulas"
+        },
+        {
+            "codigo_depto": "20",
+            "Departamento": "Chiquimula",
+            "codigo_municipio": "2008",
+            "Municipio": "Concepción las Minas"
+        },
+        {
+            "codigo_depto": "20",
+            "Departamento": "Chiquimula",
+            "codigo_municipio": "2009",
+            "Municipio": "Quezaltepeque"
+        },
+        {
+            "codigo_depto": "20",
+            "Departamento": "Chiquimula",
+            "codigo_municipio": "2010",
+            "Municipio": "San Jacinto"
+        },
+        {
+            "codigo_depto": "20",
+            "Departamento": "Chiquimula",
+            "codigo_municipio": "2011",
+            "Municipio": "Ipala"
+        },
+        {
+            "codigo_depto": "21",
+            "Departamento": "Jalapa",
+            "codigo_municipio": "2101",
+            "Municipio": "Jalapa"
+        },
+        {
+            "codigo_depto": "21",
+            "Departamento": "Jalapa",
+            "codigo_municipio": "2102",
+            "Municipio": "San Pedro Pinula"
+        },
+        {
+            "codigo_depto": "21",
+            "Departamento": "Jalapa",
+            "codigo_municipio": "2103",
+            "Municipio": "San Luis Jilotepeque"
+        },
+        {
+            "codigo_depto": "21",
+            "Departamento": "Jalapa",
+            "codigo_municipio": "2104",
+            "Municipio": "San Manuel Chaparrón"
+        },
+        {
+            "codigo_depto": "21",
+            "Departamento": "Jalapa",
+            "codigo_municipio": "2105",
+            "Municipio": "San Carlos Alzatate"
+        },
+        {
+            "codigo_depto": "21",
+            "Departamento": "Jalapa",
+            "codigo_municipio": "2106",
+            "Municipio": "Monjas"
+        },
+        {
+            "codigo_depto": "21",
+            "Departamento": "Jalapa",
+            "codigo_municipio": "2107",
+            "Municipio": "Mataquescuintla"
+        },
+        {
+            "codigo_depto": "22",
+            "Departamento": "Jutiapa",
+            "codigo_municipio": "2201",
+            "Municipio": "Jutiapa"
+        },
+        {
+            "codigo_depto": "22",
+            "Departamento": "Jutiapa",
+            "codigo_municipio": "2202",
+            "Municipio": "El Progreso"
+        },
+        {
+            "codigo_depto": "22",
+            "Departamento": "Jutiapa",
+            "codigo_municipio": "2203",
+            "Municipio": "Santa Catarina Mita"
+        },
+        {
+            "codigo_depto": "22",
+            "Departamento": "Jutiapa",
+            "codigo_municipio": "2204",
+            "Municipio": "Agua Blanca"
+        },
+        {
+            "codigo_depto": "22",
+            "Departamento": "Jutiapa",
+            "codigo_municipio": "2205",
+            "Municipio": "Asunción Mita"
+        },
+        {
+            "codigo_depto": "22",
+            "Departamento": "Jutiapa",
+            "codigo_municipio": "2206",
+            "Municipio": "Yupiltepeque"
+        },
+        {
+            "codigo_depto": "22",
+            "Departamento": "Jutiapa",
+            "codigo_municipio": "2207",
+            "Municipio": "Atescatempa"
+        },
+        {
+            "codigo_depto": "22",
+            "Departamento": "Jutiapa",
+            "codigo_municipio": "2208",
+            "Municipio": "Jerez"
+        },
+        {
+            "codigo_depto": "22",
+            "Departamento": "Jutiapa",
+            "codigo_municipio": "2209",
+            "Municipio": "El Adelanto"
+        },
+        {
+            "codigo_depto": "22",
+            "Departamento": "Jutiapa",
+            "codigo_municipio": "2210",
+            "Municipio": "Zapotitlán"
+        },
+        {
+            "codigo_depto": "22",
+            "Departamento": "Jutiapa",
+            "codigo_municipio": "2211",
+            "Municipio": "Comapa"
+        },
+        {
+            "codigo_depto": "22",
+            "Departamento": "Jutiapa",
+            "codigo_municipio": "2212",
+            "Municipio": "Jalpatagua"
+        },
+        {
+            "codigo_depto": "22",
+            "Departamento": "Jutiapa",
+            "codigo_municipio": "2213",
+            "Municipio": "Conguaco"
+        },
+        {
+            "codigo_depto": "22",
+            "Departamento": "Jutiapa",
+            "codigo_municipio": "2214",
+            "Municipio": "Moyuta"
+        },
+        {
+            "codigo_depto": "22",
+            "Departamento": "Jutiapa",
+            "codigo_municipio": "2215",
+            "Municipio": "Pasaco"
+        },
+        {
+            "codigo_depto": "22",
+            "Departamento": "Jutiapa",
+            "codigo_municipio": "2216",
+            "Municipio": "San José Acatempa"
+        },
+        {
+            "codigo_depto": "22",
+            "Departamento": "Jutiapa",
+            "codigo_municipio": "2217",
+            "Municipio": "Quesada"
+        }
+]
